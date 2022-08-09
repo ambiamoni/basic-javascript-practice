@@ -12,10 +12,15 @@ myClass = "eight";
 const a = 5;
 const b = 9;
 const sum = a + b;
+const subtraction = a - b;
 const multiply = a * b;
 const divided = a / b;
-const modulas = a % b;
+const remainder = a % b;
 console.log(sum);
+console.log(subtraction);
+console.log(multiply);
+console.log(divided);
+console.log(remainder);
 
 
 
